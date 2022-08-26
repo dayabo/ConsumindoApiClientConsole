@@ -1,0 +1,15 @@
+C:\Users\dayan\OneDrive\Área de Trabalho\DevinHouse[M2S02]\ConsumindoApiClient\ConsumindoApiClient\bin\Debug\net6.0\ConsumindoApiClient.exe
+C:\Users\dayan\OneDrive\Área de Trabalho\DevinHouse[M2S02]\ConsumindoApiClient\ConsumindoApiClient\bin\Debug\net6.0\ConsumindoApiClient.deps.json
+C:\Users\dayan\OneDrive\Área de Trabalho\DevinHouse[M2S02]\ConsumindoApiClient\ConsumindoApiClient\bin\Debug\net6.0\ConsumindoApiClient.runtimeconfig.json
+C:\Users\dayan\OneDrive\Área de Trabalho\DevinHouse[M2S02]\ConsumindoApiClient\ConsumindoApiClient\bin\Debug\net6.0\ConsumindoApiClient.dll
+C:\Users\dayan\OneDrive\Área de Trabalho\DevinHouse[M2S02]\ConsumindoApiClient\ConsumindoApiClient\bin\Debug\net6.0\ConsumindoApiClient.pdb
+C:\Users\dayan\OneDrive\Área de Trabalho\DevinHouse[M2S02]\ConsumindoApiClient\ConsumindoApiClient\obj\Debug\net6.0\ConsumindoApiClient.csproj.AssemblyReference.cache
+C:\Users\dayan\OneDrive\Área de Trabalho\DevinHouse[M2S02]\ConsumindoApiClient\ConsumindoApiClient\obj\Debug\net6.0\ConsumindoApiClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dayan\OneDrive\Área de Trabalho\DevinHouse[M2S02]\ConsumindoApiClient\ConsumindoApiClient\obj\Debug\net6.0\ConsumindoApiClient.AssemblyInfoInputs.cache
+C:\Users\dayan\OneDrive\Área de Trabalho\DevinHouse[M2S02]\ConsumindoApiClient\ConsumindoApiClient\obj\Debug\net6.0\ConsumindoApiClient.AssemblyInfo.cs
+C:\Users\dayan\OneDrive\Área de Trabalho\DevinHouse[M2S02]\ConsumindoApiClient\ConsumindoApiClient\obj\Debug\net6.0\ConsumindoApiClient.csproj.CoreCompileInputs.cache
+C:\Users\dayan\OneDrive\Área de Trabalho\DevinHouse[M2S02]\ConsumindoApiClient\ConsumindoApiClient\obj\Debug\net6.0\ConsumindoApiClient.dll
+C:\Users\dayan\OneDrive\Área de Trabalho\DevinHouse[M2S02]\ConsumindoApiClient\ConsumindoApiClient\obj\Debug\net6.0\refint\ConsumindoApiClient.dll
+C:\Users\dayan\OneDrive\Área de Trabalho\DevinHouse[M2S02]\ConsumindoApiClient\ConsumindoApiClient\obj\Debug\net6.0\ConsumindoApiClient.pdb
+C:\Users\dayan\OneDrive\Área de Trabalho\DevinHouse[M2S02]\ConsumindoApiClient\ConsumindoApiClient\obj\Debug\net6.0\ConsumindoApiClient.genruntimeconfig.cache
+C:\Users\dayan\OneDrive\Área de Trabalho\DevinHouse[M2S02]\ConsumindoApiClient\ConsumindoApiClient\obj\Debug\net6.0\ref\ConsumindoApiClient.dll
